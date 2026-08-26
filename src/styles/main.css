@@ -1,4 +1,14 @@
+@import "./variables.css";
+@import "./scrollbar.css";
+@import "./transition.css";
+@import "./expressive-code.css";
+@import "./markdown.css";
+@import "./markdown-extend.css";
+@import "./photoswipe.css";
+
+@tailwind base;
 @tailwind components;
+@tailwind utilities;
 
 @layer components {
     .card-base {
