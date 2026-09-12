@@ -1,10 +1,10 @@
 ---
 title: Markdown Example
-published: 2023-10-01
+published: 1970-01-01
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
+tags: [Example]
 category: Examples
-draft: false
+draft: true
 ---
 
 # An h1 header
