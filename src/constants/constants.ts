@@ -6,7 +6,7 @@ export const AUTO_MODE: string = "auto";
 export const DEFAULT_THEME: string = AUTO_MODE;
 
 // Banner height unit: vh
-export const BANNER_HEIGHT: number = 35;
+export const BANNER_HEIGHT: number = 65;
 export const BANNER_HEIGHT_EXTEND: number = 30;
 export const BANNER_HEIGHT_HOME: number = BANNER_HEIGHT + BANNER_HEIGHT_EXTEND;
 

@@ -2,20 +2,20 @@ import Key from "../i18nKey";
 import type { Translation } from "../translation";
 
 export const ja: Translation = {
-	[Key.home]: "Home",
-	[Key.about]: "About",
-	[Key.archive]: "Archive",
+	[Key.home]: "表紙",
+	[Key.about]: "自己紹介",
+	[Key.archive]: "記事一覧",
 	[Key.search]: "検索",
 
-	[Key.tags]: "タグ",
-	[Key.categories]: "カテゴリ",
+	[Key.tags]: "話題",
+	[Key.categories]: "分類",
 	[Key.recentPosts]: "最近の投稿",
 
-	[Key.comments]: "コメント",
+	[Key.comments]: "感想",
 
-	[Key.untitled]: "タイトルなし",
-	[Key.uncategorized]: "カテゴリなし",
-	[Key.noTags]: "タグなし",
+	[Key.untitled]: "無題",
+	[Key.uncategorized]: "未分類",
+	[Key.noTags]: "話題なし",
 
 	[Key.wordCount]: "文字",
 	[Key.wordsCount]: "文字",
@@ -24,15 +24,15 @@ export const ja: Translation = {
 	[Key.postCount]: "件の投稿",
 	[Key.postsCount]: "件の投稿",
 
-	[Key.themeColor]: "テーマカラー",
+	[Key.themeColor]: "基調色",
 
-	[Key.lightMode]: "ライト",
-	[Key.darkMode]: "ダーク",
-	[Key.systemMode]: "システム",
+	[Key.lightMode]: "明色",
+	[Key.darkMode]: "暗色",
+	[Key.systemMode]: "自動",
 
-	[Key.more]: "もっと",
+	[Key.more]: "続き",
 
-	[Key.author]: "作者",
+	[Key.author]: "筆者",
 	[Key.publishedAt]: "公開日",
-	[Key.license]: "ライセンス",
+	[Key.license]: "権利表記",
 };
