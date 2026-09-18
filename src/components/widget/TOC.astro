@@ -27,6 +27,14 @@ const removeTailingHash = (text: string) => {
 	return text.substring(0, lastIndexOfHash);
 };
 
+const cleanHeadingText = (text: string, isMinDepth: boolean) => {
+	let cleaned = removeTailingHash(text).trim();
+	if (isMinDepth) {
+		cleaned = cleaned.replace(/^[0-9０-９一二三四五六七八九十]+[\s\.、　]/, "");
+	}
+	return cleaned;
+};
+
 let heading1Count = 1;
 
 const maxLevel = siteConfig.toc.depth;
@@ -52,7 +60,7 @@ const maxLevel = siteConfig.toc.depth;
                 <div class:list={["transition text-sm", {
                     "text-50": heading.depth == minDepth || heading.depth == minDepth + 1,
                     "text-30": heading.depth == minDepth + 2,
-                }]}>{removeTailingHash(heading.text)}</div>
+                }]}>{cleanHeadingText(heading.text, heading.depth === minDepth)}</div>
             </a>
     )}
     <div id="active-indicator" style="opacity: 0" class:list={[{'hidden': headings.length == 0}, "-z-10 absolute bg-[var(--toc-btn-hover)] left-0 right-0 rounded-xl transition-all " +
