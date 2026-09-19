@@ -45,7 +45,7 @@ One Among Us に参加した当初は、友人たちと共通の話題が欲し�
 
 私のオンラインでのアイデンティティを形作る設定や、好きな二次元作品について：
 
-- **名前**：好きなノベルゲーム[『星空鉄道とシロの旅』](https://shiratamaco.com/hoshishiro/)に登場する「<ruby>風又<rt>かざまた</rt>音理<rt>ねり</rt></ruby>」から。<!-- （名前に込めたより深い意味については、[こちらの記事](#)をご覧ください） -->
+- **名前**：好きなノベルゲーム[『星空鉄道とシロの旅』](https://shiratamaco.com/hoshishiro/)に登場する「<ruby>風又<rt>かざまた</rt>音理<rt>ねり</rt></ruby>」から。（名前に込めたより深い意味については、[こちらの記事](/posts/naming-amakawa-rine/)をご覧ください）
 - **専攻**：大学では電気工学を専攻しました（[『とある科学の超電磁砲』](https://toaru-project.com/railgun/)の「<ruby>御坂<rt>みさか</rt>美琴<rt>みこと</rt></ruby>」に憧れたのがきっかけです）。
 - **アイコン**：[『ネコぱら』](http://pc.nekopara.com)の「バニラ」。以前上海の実家で猫を飼っていたこともあり、猫が大好きです。
 - **ドメイン**：[『景の海のアペイリア』](http://www.silkysplus.jp/game/apeiria/index.html)から。ちなみに、以前のドメインは[『ATRI -My Dear Moments-』](https://atri-mdm.com)から取っていました。
