@@ -1,9 +1,67 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 自己紹介
 
-::github{repo="saicaca/fuwari"}
+東京在住、ただいま「魔法」を修行中の技術オタクな猫娘です。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+『理音雑記』へようこそ。
+
+- **現在地**：日本・東京
+- **言語**：中国語 / 日本語 / 英語
+- **属性**：INTP / 実用主義 / 社会自由主義
+- **ジェンダー**：トランス女性
+
+### 💻 エンジニアとしての顔：魔法と実用主義
+
+「十分に発達した科学技術は、魔法と見分けがつかない」とよく言われますが、私にとってコードを書き、混沌としたシステムを整理整頓することは、まさに魔法を使うようなものです。
+
+私は、極めて実用主義を重んじる <ruby>Full-stack Engineer<rt>フルスタックエンジニア</rt></ruby> です。ゼロから新しいものを創り出すよりも、明確な目標に向かって課題を解決し、既存のシステムを修復して完璧に動作させる過程に喜びを感じます。
+
+- **技術へのこだわり**：システムの「<ruby>宣言的<rt>Declarative</rt></ruby>」「<ruby>決定性<rt>Deterministic</rt></ruby>」「<ruby>再現性<rt>Reproducible</rt></ruby>」を深く愛しています。私が NixOS を好んで使っている理由はまさにこれです。同時に、高度なカスタマイズ性も徹底的に追求したいタイプなので、Arch Linux もお気に入りです。
+- **<ruby>Open Source<rt>オープンソース</rt></ruby> への貢献**：
+  - **[NixOS / Nixpkgs](https://github.com/NixOS/nixpkgs)** <ruby>Package Maintainer<rt>パッケージメンテナ</rt></ruby> (2023.06 ~ 現在)
+  - **[Arch Linux CN](https://github.com/archlinuxcn/repo)** <ruby>Package Maintainer<rt>パッケージメンテナ</rt></ruby> (2025.07 ~ 現在)
+- **スキルと興味**：主な技術スタックは Python, TypeScript, Docker / Kubernetes, Nix です。それに加えて興味の幅がとても広く、情報セキュリティや電子工学の分野にも少し手を出しています。
+
+### 🏳️‍⚧️ トランジションの歩みと、私の居場所
+
+トランスジェンダーとしての自己認識は決して遅くありませんでしたが、実際に最初の一歩を踏み出すまでには長い時間を要しました。遡ること2021年5月には[「project-trans/MtF-wiki」](https://github.com/project-trans/MtF-wiki)に Pull Request を送ったりもしていました。しかし、家族から理解を得られないことを恐れて本当の自分をずっと隠し続け、「日本へ行き、自由を手に入れてから新しい人生を始めよう」と心に決めていました。
+
+2026年、私はついにしがらみを断ち切り、大きな転換期を迎えました：
+
+- **2026.02.07**：通称名を使い始める
+- **2026.04.11**：HRT（ホルモン補充療法）を DIY で開始
+- **2026.06.28**：日本へ渡り、東京での新生活をスタート
+- **2026.07.06**：性別不合（旧称：性同一性障害）の診断書を取得
+
+自由な空気を思いきり吸い込むために、ここ東京で少しずつ自分自身を再構築しています。その旅の途中で、トランスジェンダーへの支援と[「秋の葉ものがたり」](https://one-among.us)という追悼サイトの運営を行う NPO 法人 [「One Among Us Transgender Support」](https://oneamongus.ca)は、私にとって非常に重要な居場所となりました。
+
+**One Among Us Transgender Support (カナダ登記 NPO 法人)**
+
+- Tech Support, Memorial Workgroup (2025.09 ~ 2026.01)
+- Vice President of Tech, Memorial Workgroup (2026.01 ~ 現在)
+
+One Among Us に参加した当初は、友人たちと共通の話題が欲しいというだけの理由でした。しかし時間が経つにつれ、自然な流れで一介の技術サポートからサイトの技術責任者としての重責を引き継ぐことになりました。私はここで非常に大きな責任感を感じています。技術の力を使って、みんなに温もりをもたらすこの避難所を守り、そして仲間たちが確かに存在したという証を守り抜きたいのです。オフ会で直接仲間たちと会い、「もう一人じゃないんだ」と実感できた時の安心感は、今でも私の心を支える大きな柱となっています。
+
+### 🐱 二次元成分と東京サバイバル日常
+
+私のオンラインでのアイデンティティを形作る設定や、好きな二次元作品について：
+
+- **名前**：好きなノベルゲーム[『星空鉄道とシロの旅』](https://shiratamaco.com/hoshishiro/)に登場する「<ruby>風又<rt>かざまた</rt>音理<rt>ねり</rt></ruby>」から。<!-- （名前に込めたより深い意味については、[こちらの記事](#)をご覧ください） -->
+- **専攻**：大学では電気工学を専攻しました（[『とある科学の超電磁砲』](https://toaru-project.com/railgun/)の「<ruby>御坂<rt>みさか</rt>美琴<rt>みこと</rt></ruby>」に憧れたのがきっかけです）。
+- **アイコン**：[『ネコぱら』](http://pc.nekopara.com)の「バニラ」。以前上海の実家で猫を飼っていたこともあり、猫が大好きです。
+- **ドメイン**：[『景の海のアペイリア』](http://www.silkysplus.jp/game/apeiria/index.html)から。ちなみに、以前のドメインは[『ATRI -My Dear Moments-』](https://atri-mdm.com)から取っていました。
+
+現在は語学学校に通っています。授業以外の時間は基本的にお家でダラダラと過ごすインドア派ですが、生活の体験や節約のために、よく外へ探検に出かけます。
+
+- **東京サバイバル術**：予算が限られていることもあり、スーパーで割引弁当を狙ったり、無料の博物館を巡ったりするのに熱中しています。また、「東京都内の区立図書館巡り」が最近の楽しみになっており、現在なんと「自分が利用登録できる16区すべて」の図書館カードを制覇しました！
+- **ゲームと趣味**：日常系の Galgame をこよなく愛しています。Minecraft では Speedrun や Survival、自動化 Farm の建設が好きで、さらに完璧な Item 仕分けにこだわる「整理整頓の鬼」でもあります。過去には『Blue Archive』『GTA V』『Cyberpunk 2077』などもプレイしていました。さらに、上海にいた頃はピアノのレッスンにも通っていましたが、あまり上達しなかったので東京には持ってきていません。
+- **オフラインでの交流**：中国にいた頃は、Nix CN Conference で3回ボランティアを務めました。東京に来てからは、[Tokyo Linux Users Group](https://www.tlug.jp/ja/) などの技術系 Meetup に時折顔を出し、少しずつ社会との繋がりを広げています。
+
+### 💼 これからの歩み
+
+日本での生活に慣れるよう努力しつつ、今後のキャリアに向けた準備も進めています。**2027年を目処に、日本国内で <ruby>Infrastructure<rt>インフラ</rt></ruby> / Site Reliability Engineering (SRE) / <ruby>Full-stack<rt>フルスタック</rt></ruby> 開発などのポジションを探す予定です。**
+
+もし私の技術的な問題解決のアプローチに共感していただけたり、<ruby>Open Source<rt>オープンソース</rt></ruby> と自動化を愛する猫娘と面白いことをしたいと思ってくださる方がいましたら、ぜひお気軽にお声がけください。
+
+> [!NOTE]
+> **日本語についてのお願い：**
+> 私は現在日本語を勉強中であり、ネイティブレベルではありません。もしブログ内で不自然な表現や間違いを見つけた場合は、どうぞ遠慮なくお気軽に教えてください。ご指摘いただけますと大変ありがたいです！
