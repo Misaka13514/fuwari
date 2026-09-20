@@ -16,6 +16,7 @@ import rehypeSlug from "rehype-slug";
 import remarkDirective from "remark-directive"; /* Handle directives */
 import remarkGithubAdmonitionsToDirectives from "remark-github-admonitions-to-directives";
 import remarkMath from "remark-math";
+import remarkBreaks from "remark-breaks";
 import remarkRuby from "@tuyuritio/remark-ruby";
 import remarkSectionize from "remark-sectionize";
 import { expressiveCodeConfig } from "./src/config.ts";
@@ -106,6 +107,7 @@ export default defineConfig({
 	markdown: {
 		processor: unified({
 			remarkPlugins: [
+				remarkBreaks,
 				remarkRuby,
 				remarkMath,
 				remarkReadingTime,
