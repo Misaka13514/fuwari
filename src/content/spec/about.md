@@ -13,12 +13,12 @@
 
 「十分に発達した科学技術は、魔法と見分けがつかない」とよく言われますが、私にとってコードを書き、混沌としたシステムを整理整頓することは、まさに魔法を使うようなものです。
 
-私は、極めて実用主義を重んじる <ruby>Full-stack Engineer<rt>フルスタックエンジニア</rt></ruby> です。ゼロから新しいものを創り出すよりも、明確な目標に向かって課題を解決し、既存のシステムを修復して完璧に動作させる過程に喜びを感じます。
+私は、極めて実用主義を重んじる {Full-stack Engineer}(フルスタックエンジニア) です。ゼロから新しいものを創り出すよりも、明確な目標に向かって課題を解決し、既存のシステムを修復して完璧に動作させる過程に喜びを感じます。
 
-- **技術へのこだわり**：システムの「<ruby>宣言的<rt>Declarative</rt></ruby>」「<ruby>決定性<rt>Deterministic</rt></ruby>」「<ruby>再現性<rt>Reproducible</rt></ruby>」を深く愛しています。私が NixOS を好んで使っている理由はまさにこれです。同時に、高度なカスタマイズ性も徹底的に追求したいタイプなので、Arch Linux もお気に入りです。
-- **<ruby>Open Source<rt>オープンソース</rt></ruby> への貢献**：
-  - **[NixOS / Nixpkgs](https://github.com/NixOS/nixpkgs)** <ruby>Package Maintainer<rt>パッケージメンテナ</rt></ruby> (2023.06 ~ 現在)
-  - **[Arch Linux CN](https://github.com/archlinuxcn/repo)** <ruby>Package Maintainer<rt>パッケージメンテナ</rt></ruby> (2025.07 ~ 現在)
+- **技術へのこだわり**：システムの「{宣言的}(Declarative)」「{決定性}(Deterministic)」「{再現性}(Reproducible)」を深く愛しています。私が NixOS を好んで使っている理由はまさにこれです。同時に、高度なカスタマイズ性も徹底的に追求したいタイプなので、Arch Linux もお気に入りです。
+- **{Open Source}(オープンソース) への貢献**：
+  - **[NixOS / Nixpkgs](https://github.com/NixOS/nixpkgs)** {Package Maintainer}(パッケージメンテナ) (2023.06 ~ 現在)
+  - **[Arch Linux CN](https://github.com/archlinuxcn/repo)** {Package Maintainer}(パッケージメンテナ) (2025.07 ~ 現在)
 - **スキルと興味**：主な技術スタックは Python, TypeScript, Docker / Kubernetes, Nix です。それに加えて興味の幅がとても広く、情報セキュリティや電子工学の分野にも少し手を出しています。
 
 ### 🏳️‍⚧️ トランジションの歩みと、私の居場所
@@ -45,8 +45,8 @@ One Among Us に参加した当初は、友人たちと共通の話題が欲し�
 
 私のオンラインでのアイデンティティを形作る設定や、好きな二次元作品について：
 
-- **名前**：好きなノベルゲーム[『星空鉄道とシロの旅』](https://shiratamaco.com/hoshishiro/)に登場する「<ruby>風又<rt>かざまた</rt>音理<rt>ねり</rt></ruby>」から。（名前に込めたより深い意味については、[こちらの記事](/posts/naming-amakawa-rine/)をご覧ください）
-- **専攻**：大学では電気工学を専攻しました（[『とある科学の超電磁砲』](https://toaru-project.com/railgun/)の「<ruby>御坂<rt>みさか</rt>美琴<rt>みこと</rt></ruby>」に憧れたのがきっかけです）。
+- **名前**：好きなノベルゲーム[『星空鉄道とシロの旅』](https://shiratamaco.com/hoshishiro/)に登場する「{風又}(かざまた){音理}(ねり)」から。（名前に込めたより深い意味については、[こちらの記事](/posts/naming-amakawa-rine/)をご覧ください）
+- **専攻**：大学では電気工学を専攻しました（[『とある科学の超電磁砲』](https://toaru-project.com/railgun/)の「{御坂}(みさか){美琴}(みこと)」に憧れたのがきっかけです）。
 - **アイコン**：[『ネコぱら』](http://pc.nekopara.com)の「バニラ」。以前上海の実家で猫を飼っていたこともあり、猫が大好きです。
 - **ドメイン**：[『景の海のアペイリア』](http://www.silkysplus.jp/game/apeiria/index.html)から。ちなみに、以前のドメインは[『ATRI -My Dear Moments-』](https://atri-mdm.com)から取っていました。
 
@@ -58,9 +58,9 @@ One Among Us に参加した当初は、友人たちと共通の話題が欲し�
 
 ### 💼 これからの歩み
 
-日本での生活に慣れるよう努力しつつ、今後のキャリアに向けた準備も進めています。**2027年を目処に、日本国内で <ruby>Infrastructure<rt>インフラ</rt></ruby> / Site Reliability Engineering (SRE) / <ruby>Full-stack<rt>フルスタック</rt></ruby> 開発などのポジションを探す予定です。**
+日本での生活に慣れるよう努力しつつ、今後のキャリアに向けた準備も進めています。2027年を目処に、日本国内で {Infrastructure}(インフラ) / Site Reliability Engineering (SRE) / {Full-stack}(フルスタック) 開発などのポジションを探す予定です。
 
-もし私の技術的な問題解決のアプローチに共感していただけたり、<ruby>Open Source<rt>オープンソース</rt></ruby> と自動化を愛する猫娘と面白いことをしたいと思ってくださる方がいましたら、ぜひお気軽にお声がけください。
+もし私の技術的な問題解決のアプローチに共感していただけたり、{Open Source}(オープンソース) と自動化を愛する猫娘と面白いことをしたいと思ってくださる方がいましたら、ぜひお気軽にお声がけください。
 
 > [!NOTE]
 > **日本語についてのお願い：**

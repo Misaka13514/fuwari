@@ -147,6 +147,9 @@ importers:
       '@tailwindcss/vite':
         specifier: ^4.3.3
         version: 4.3.3(vite@8.3.0(@types/node@24.13.3)(esbuild@0.28.2)(jiti@2.7.0)(sass@1.80.4)(stylus@0.64.0)(terser@5.43.1)(yaml@2.9.0))
+      '@tuyuritio/remark-ruby':
+        specifier: ^1.0.2
+        version: 1.0.2(unified@11.0.5)
       '@types/hast':
         specifier: ^3.0.5
         version: 3.0.5
@@ -2006,6 +2009,11 @@ packages:
   '@trysound/sax@0.2.0':
     resolution: {integrity: sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==}
     engines: {node: '>=10.13.0'}
+
+  '@tuyuritio/remark-ruby@1.0.2':
+    resolution: {integrity: sha512-M7SV+g5ZEy/Nj66BAzm3pf8y1VOP9Vv3KRxE7rGbKvwIdHYhxiTH3n+Bh/Jln4HRRWt0MUDp+nu5+xVeKr3bNQ==}
+    peerDependencies:
+      unified: ^11.0.5
 
   '@tybys/wasm-util@0.10.3':
     resolution: {integrity: sha512-F3fo1MYrRJYL3zER0OUOmkutjr1Vp23m7OsSgp7nq4SP6OqX6C/56XFIPAl5bt3zaBRjmW7SGz3u/6LwFpYcOg==}
@@ -5025,6 +5033,9 @@ packages:
   unifont@0.7.5:
     resolution: {integrity: sha512-ULe/Cs+ZIsq+dcFofNkhqielCrUJnb5mr+Yc4EBM2VlL+6OZR6+cjtI2mT1bJvRBrVncqHAbLURxmPLcCXzWMg==}
 
+  unist-builder@4.0.0:
+    resolution: {integrity: sha512-wmRFnH+BLpZnTKpc5L7O67Kac89s9HMrtELpnNaE6TAobq5DTZZs5YaTQfAZBA9bFPECx2uVAPO31c+GVug8mg==}
+
   unist-util-find-after@4.0.1:
     resolution: {integrity: sha512-QO/PuPMm2ERxC6vFXEPtmAutOopy5PknD+Oq64gGwxKtk4xwo9Z97t9Av1obPmGU0IyTa6EKYUfTrK2QJS3Ozw==}
 
@@ -7380,6 +7391,12 @@ snapshots:
       vite: 8.3.0(@types/node@24.13.3)(esbuild@0.28.2)(jiti@2.7.0)(sass@1.80.4)(stylus@0.64.0)(terser@5.43.1)(yaml@2.9.0)
 
   '@trysound/sax@0.2.0': {}
+
+  '@tuyuritio/remark-ruby@1.0.2(unified@11.0.5)':
+    dependencies:
+      mdast-util-find-and-replace: 3.0.2
+      unified: 11.0.5
+      unist-builder: 4.0.0
 
   '@tybys/wasm-util@0.10.3':
     dependencies:
@@ -11255,6 +11272,10 @@ snapshots:
       css-tree: 3.2.1
       ohash: 2.0.12
       undici: 8.10.2
+
+  unist-builder@4.0.0:
+    dependencies:
+      '@types/unist': 3.0.3
 
   unist-util-find-after@4.0.1:
     dependencies:

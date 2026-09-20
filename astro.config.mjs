@@ -16,6 +16,7 @@ import rehypeSlug from "rehype-slug";
 import remarkDirective from "remark-directive"; /* Handle directives */
 import remarkGithubAdmonitionsToDirectives from "remark-github-admonitions-to-directives";
 import remarkMath from "remark-math";
+import remarkRuby from "@tuyuritio/remark-ruby";
 import remarkSectionize from "remark-sectionize";
 import { expressiveCodeConfig } from "./src/config.ts";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
@@ -105,6 +106,7 @@ export default defineConfig({
 	markdown: {
 		processor: unified({
 			remarkPlugins: [
+				remarkRuby,
 				remarkMath,
 				remarkReadingTime,
 				remarkExcerpt,
