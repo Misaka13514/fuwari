@@ -12,7 +12,8 @@
     "astro": "astro",
     "type-check": "tsc --noEmit",
     "new-post": "node scripts/new-post.js",
-    "format": "biome format --write ./src",
+    "format": "biome format --write ./src && node scripts/format-spacing.js",
+    "format:spacing": "node scripts/format-spacing.js",
     "lint": "biome check --write ./src",
     "preinstall": "npx only-allow pnpm"
   },
